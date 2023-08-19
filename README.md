@@ -17,15 +17,14 @@ A comment instance must have a masterPost.
 A comment can be written under another comment. In this scenerio, it will have both masterPost and masterComment instance.
 
 Post_api 
-![List of all posts](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/ffc04c33-be0a-410d-8e1d-46674db81878)
-![View a specific post](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/a3d1caf1-fdd4-4435-9cc6-549a3441b346)
+![List of all posts](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/d4b80279-76b1-4dad-8036-beef4b8e4598)
+![View a specific post](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/aaa5c4fd-0fd4-4fd6-b294-f7d9917c69bd)
 
 Comment_api
-![List of all comments](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/cd3c771b-9140-4a1b-97f7-c5707bc481cf)
-![View a specific comment](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/18f9d7a4-211d-43f5-8e6a-c44454a7f743)
+![List of all comments](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/f0646f0c-51ff-4dcd-8771-67a05a392c73)
+![View a specific comment](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/b71c7d2d-e411-4f68-a1f7-0ce6ba586c11)
 
 User_api
-![List of all users](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/2433fc59-d32b-4c33-86f2-d6de9c99023b)
-![View a specific user](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/8888c9c7-57ea-4dca-90a5-1060b848ec3c)
-
+![List of all users](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/27c49fda-78d6-4dac-879f-e4396d462b57)
+![View a specific user](https://github.com/gulsoy83/BlogAPI_withREST/assets/46426033/359a2680-a112-4348-9843-4b10ed370100)
 
